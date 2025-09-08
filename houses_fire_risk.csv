@@ -1,0 +1,11 @@
+House_ID,Owner_Name,Location,Latitude,Longitude,House_Type,Fire_Risk_Level,Fire_Intensity (%),Last_Inspection,Distance_to_Water_Source (m)
+H001,Sarah Johnson,Downtown Block A,6.3154,-10.8012,Apartment,High,92,2025-07-14,500
+H002,Peter Mensah,Hilltop Estate,6.3241,-10.7934,Bungalow,Medium,65,2025-05-02,250
+H003,Grace Doe,Riverside,6.3118,-10.8087,Duplex,Low,28,2025-03-09,80
+H004,Michael Smith,Central Avenue,6.3187,-10.7993,Wooden House,High,88,2025-08-01,900
+H005,Linda Cooper,West End,6.3256,-10.805,Villa,Medium,53,2025-04-15,300
+H006,Samuel Kallon,Palm Grove,6.3098,-10.7971,Apartment,Low,35,2025-06-19,100
+H007,Anita Johnson,Old Town,6.3171,-10.8029,Wooden House,High,95,2025-07-29,1200
+H008,Daniel Brown,Unity Estate,6.3225,-10.8063,Bungalow,Medium,61,2025-05-25,220
+H009,Josephine Kai,Riverside,6.3139,-10.8101,Duplex,Low,30,2025-06-05,150
+H010,Henry Cole,Downtown Block B,6.3192,-10.7984,Apartment,High,90,2025-07-10,700
